@@ -1,0 +1,116 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-21cb9207a2b4a70904e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-b01f6abb0ab61427ef3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "LongKit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LongKit_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LongKit_shared-Debug-df4172e3b2ab8d819559.json",
+					"name" : "LongKit_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_rtmpserver::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_rtmpserver-Debug-5fccf04d471836637eee.json",
+					"name" : "test_rtmpserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_spdlog::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_spdlog-Debug-b0cc3a33eb778aab83f8.json",
+					"name" : "test_spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_threadpool::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_threadpool-Debug-278b3d8dabc52d804603.json",
+					"name" : "test_threadpool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_webserver::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_webserver-Debug-e5be3bd0f807085485e2.json",
+					"name" : "test_webserver",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xiezhilong/Desktop/RTMPServer/build",
+		"source" : "/Users/xiezhilong/Desktop/RTMPServer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rtmp_msgtypeid.h": "c",
+        "rtmp_client_invoke_handler.h": "c",
+        "random": "cpp"
+    }
+}

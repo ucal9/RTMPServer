@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/app/app_rtmp_conn.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/app/app_rtmp_conn.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/app/app_rtmp_conn.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/app/app_rtmp_conn.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/amf0.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/amf0.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/amf0.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/amf0.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/http_parser.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/http_parser.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/http_parser.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/http_parser.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/http_parser_wrapper.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/http_parser_wrapper.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/http_parser_wrapper.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/http_parser_wrapper.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_chunk_header.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_chunk_header.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_chunk_header.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_chunk_header.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_chunk_read.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_chunk_read.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_chunk_read.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_chunk_read.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_chunk_write.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_chunk_write.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_chunk_write.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_chunk_write.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_control_handler.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_control_handler.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_control_handler.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_control_handler.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_control_message.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_control_message.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_control_message.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_control_message.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_event.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_event.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_event.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_event.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_handler.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_handler.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_handler.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_handler.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_handshake.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_handshake.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_handshake.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_handshake.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_invoke_handler.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_invoke_handler.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_invoke_handler.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_invoke_handler.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_netconnection.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_netconnection.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_netconnection.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_netconnection.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_netstream.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_netstream.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/protocol/rtmp_netstream.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/protocol/rtmp_netstream.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/network/base_socket.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/network/base_socket.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/network/base_socket.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/network/base_socket.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/network/event_dispatch.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/network/event_dispatch.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/network/event_dispatch.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/network/event_dispatch.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/network/netlib.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/network/netlib.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/network/netlib.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/network/netlib.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/thread/thread_pool.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/thread/thread_pool.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/thread/thread_pool.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/thread/thread_pool.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/util/dlog.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/util/dlog.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/util/dlog.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/util/dlog.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/util/lock.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/util/lock.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/util/lock.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/util/lock.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/util/util.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/util/util.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/util/util.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/util/util.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DFMT_SHARED -DLongKit_shared_EXPORTS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -isystem /opt/homebrew/include -isystem /opt/miniconda3/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fPIC -g -Wno-deprecated-declarations -o CMakeFiles/LongKit_shared.dir/src/util/util_pdu.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/src/util/util_pdu.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/src/util/util_pdu.cpp",
+  "output": "CMakeFiles/LongKit_shared.dir/src/util/util_pdu.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -g -Wno-deprecated-declarations -o tests/CMakeFiles/test_rtmpserver.dir/test_rtmpserver.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/tests/test_rtmpserver.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/tests/test_rtmpserver.cpp",
+  "output": "tests/CMakeFiles/test_rtmpserver.dir/test_rtmpserver.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -g -Wno-deprecated-declarations -o tests/CMakeFiles/test_spdlog.dir/test_spdlog.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/tests/test_spdlog.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/tests/test_spdlog.cpp",
+  "output": "tests/CMakeFiles/test_spdlog.dir/test_spdlog.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -g -Wno-deprecated-declarations -o tests/CMakeFiles/test_threadpool.dir/test_threadpool.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/tests/test_threadpool.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/tests/test_threadpool.cpp",
+  "output": "tests/CMakeFiles/test_threadpool.dir/test_threadpool.cpp.o"
+},
+{
+  "directory": "/Users/xiezhilong/Desktop/RTMPServer/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/spdlog/1.14.1_1/include -I/opt/homebrew/Cellar/fmt/11.0.2/include -I/Users/xiezhilong/Desktop/RTMPServer/src -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -g -Wno-deprecated-declarations -o tests/CMakeFiles/test_webserver.dir/test_webserver.cpp.o -c /Users/xiezhilong/Desktop/RTMPServer/tests/test_webserver.cpp",
+  "file": "/Users/xiezhilong/Desktop/RTMPServer/tests/test_webserver.cpp",
+  "output": "tests/CMakeFiles/test_webserver.dir/test_webserver.cpp.o"
+}
+]

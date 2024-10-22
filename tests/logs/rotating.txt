@@ -1,0 +1,10 @@
+[2024-09-24 09:22:09.061] [log_file] [info] index = 0
+[2024-09-24 09:22:09.062] [log_file] [info] index = 1
+[2024-09-24 09:22:09.062] [log_file] [info] index = 2
+[2024-09-24 09:22:09.062] [log_file] [info] index = 3
+[2024-09-24 09:22:09.062] [log_file] [info] index = 4
+[2024-09-24 09:22:09.062] [log_file] [info] index = 5
+[2024-09-24 09:22:09.062] [log_file] [info] index = 6
+[2024-09-24 09:22:09.062] [log_file] [info] index = 7
+[2024-09-24 09:22:09.062] [log_file] [info] index = 8
+[2024-09-24 09:22:09.062] [log_file] [info] index = 9

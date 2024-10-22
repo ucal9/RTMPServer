@@ -1,0 +1,17 @@
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/LongKit_shared.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/edit_cache.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/rebuild_cache.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/list_install_components.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/install.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/install/local.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/CMakeFiles/install/strip.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/test_rtmpserver.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/test_spdlog.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/test_threadpool.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/test_webserver.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/edit_cache.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/list_install_components.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/install.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/install/local.dir
+/Users/xiezhilong/Desktop/RTMPServer/build/tests/CMakeFiles/install/strip.dir
